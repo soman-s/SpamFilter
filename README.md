@@ -29,4 +29,4 @@ all forders should be in lowercase and train and test should both contain a fold
 ![startScreen](https://user-images.githubusercontent.com/55216478/110399757-5f4dd580-8044-11eb-9064-f7ad90665327.PNG)
 
 ## Other resources
-WordCounter file was based off of Mariana Shimabukuro's WordCounter class provided in canvas
+WordCounter file was based off of Professor Mariana Shimabukuro's WordCounter class provided in the class example
