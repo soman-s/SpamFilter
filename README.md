@@ -1,7 +1,7 @@
 # CSCI 2020 Winter 2021, Assignment 1 (Spam Detection)
 
 ## Project Information 
-By: Soman Sheikh and Alex Bianchi and<br />
+By: Soman Sheikh and Alex Bianchi<br />
 Written in javafx 11
 
 The function of this program is to filter out spam emails. The program consists of two phases: training and testing. A dataset divided into two folders (train and test) is provided. Both the train and test folders include ham (wanted) and spam (unwanted) folders. In the training phase, each email in train/ham and train/spam is parsed word by word to create two frequency maps (trainHamFreq and trainSpamFreq). These maps will be used to determine the probability that a file is spam, given that it contains a specific word. 
